@@ -1,0 +1,12 @@
+{
+  "name": "system-info-crud",
+  "version": "1.0.0",
+  "description": "Collect system info + perform CRUD on files",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
